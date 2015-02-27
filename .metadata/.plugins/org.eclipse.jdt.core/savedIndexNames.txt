@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Auctioneer Project\Auctioneer\.metadata\.plugins\org.eclipse.jdt.core
+2815553694.index
